@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\bin\Debug\cesar-algorithm.exe.config
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\bin\Debug\cesar-algorithm.exe
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\bin\Debug\cesar-algorithm.pdb
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\obj\Debug\cesar-algorithm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\obj\Debug\cesar_algorithm.Form1.resources
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\obj\Debug\cesar_algorithm.Properties.Resources.resources
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\obj\Debug\cesar-algorithm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\obj\Debug\cesar-algorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\obj\Debug\cesar-algorithm.exe
+C:\Users\User\source\repos\cesar-algorithm\cesar-algorithm\obj\Debug\cesar-algorithm.pdb
